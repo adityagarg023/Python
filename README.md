@@ -1,6 +1,6 @@
 # Python Learning Repository
 
-Welcome to my Python learning repository! This repo contains Python code and notes I created while learning various programming concepts. Each topic is organized into its own folder with code examples and a dedicated README file containing detailed notes.
+Welcome to my Python learning repository! This repo contains Python code and notes I created while learning various python programming concepts. Each topic is organized into its own folder with code examples and a dedicated README file containing detailed notes. This repository serves as a personal reference and a resource for others on the same path.
 
 ## Repository Structure
 
@@ -42,11 +42,11 @@ Below is a list of topics included in this repository (this section will be upda
 
 ## Prerequisites
 
-- Python 3.x installed on your system.
+- Python 3 installed on your system.
 - Basic understanding of running Python scripts via the command line or an IDE.
 
 ## Contact
 
-If you have questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues) or connect with me on [X](https://x.com/your-username).
+If you have questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/adityagarg023/Python/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/adityagarg023/).
 
 Happy coding! 🚀

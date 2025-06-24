@@ -1,4 +1,4 @@
-# Simple Calculator in Python
+# Exercise 1 -- Simple Calculator
 
 This README contains notes on a Python program that implements a basic calculator, as demonstrated in the `code.py` file. The calculator takes two numbers and an operator as input and performs the corresponding arithmetic operation.
 

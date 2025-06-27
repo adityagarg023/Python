@@ -1,4 +1,4 @@
-# Time Module and Conditional Statements in Python
+# Exercise 2
 
 This README contains notes on using the time module and conditional statements in Python to create time-based greetings, as demonstrated in the `code.py` file.
 
